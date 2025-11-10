@@ -1,10 +1,10 @@
 # README.md
-Currently learning:   
+📚 Currently learning:   
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="50" />  
 
-Already building projects with: 
+💻 Already building projects with: 
 
 
 
